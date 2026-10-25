@@ -33,6 +33,7 @@ I'm a BCA graduate passionate about building scalable web applications, backend 
 - PDF upload, document chunking, and vector embeddings
 - Semantic search using MongoDB Vector Search
 - AI-powered question answering with Google Gemini
+  🔗 [Live Demo]([PASTE_NEXORA_LIVE_URL](https://nexora-rag.duckdns.org/))
 
 **2. Video Conferencing Application**
 - Real-time video communication using WebRTC
@@ -43,6 +44,8 @@ I'm a BCA graduate passionate about building scalable web applications, backend 
 - Full-stack property listing and booking features
 - Authentication and database integration
 - Responsive user interface
+  🔗 [Live Demo]([PASTE_WANDERLUST_LIVE_URL](https://wanderlust-npmy.onrender.com/listings))
+  
 
 
 ## 📊 GitHub Stats
@@ -61,7 +64,6 @@ I'm a BCA graduate passionate about building scalable web applications, backend 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
