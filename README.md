@@ -30,7 +30,9 @@ I'm a BCA graduate passionate about building scalable web applications, backend 
 
 ## 🚀 Featured Projects
 
+
 ### 🤖 Nexora AI — AI-Powered RAG Application
+
 An AI-powered application that lets users upload PDFs and ask questions based on their content.
 
 - PDF processing, chunking, and vector embeddings
@@ -38,22 +40,24 @@ An AI-powered application that lets users upload PDFs and ask questions based on
 - Google Gemini API integration
 - Redis caching and background processing
 
-🔗 [Live Demo]([PASTE_NEXORA_LIVE_URL](https://nexora-rag.duckdns.org/))
+🔗 [Live Demo](https://nexora-rag.duckdns.org/)
 
 ---
 
 ### 🏡 Wanderlust — Travel Listing Application
+
 A full-stack application for browsing and managing property listings.
 
 - User authentication and property listings
 - Database integration and CRUD operations
 - Responsive user interface
 
-🔗 [Live Demo]([PASTE_WANDERLUST_LIVE_URL](https://wanderlust-npmy.onrender.com/listings))
+🔗 [Live Demo](https://wanderlust-npmy.onrender.com/listings)
 
 ---
 
 ### 🎥 Video Conferencing Application
+
 A real-time video conferencing application built with WebRTC and mediasoup.
 
 - Real-time communication using WebRTC
@@ -61,6 +65,7 @@ A real-time video conferencing application built with WebRTC and mediasoup.
 - Meeting management and real-time chat
 
 🚧 **Status:** In Development
+
 
 
   
