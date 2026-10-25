@@ -3,7 +3,7 @@
 
 ### Full Stack Developer | Backend Engineering | Cloud & DevOps 🚀
 
-I'm a BSc (PCM) graduate passionate about building scalable web applications, backend systems, and AI-powered products.
+I'm a BCA graduate passionate about building scalable web applications, backend systems, and AI-powered products.
 
 - 🔭 Building full-stack and AI-powered applications
 - 🌱 Learning System Design, Distributed Systems, and Cloud Infrastructure
@@ -13,7 +13,7 @@ I'm a BSc (PCM) graduate passionate about building scalable web applications, ba
 ### 🛠️ Tech Stack
 
 **Frontend**
-- HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
+- HTML, CSS, JavaScript, React.js, Tailwind CSS
 
 **Backend**
 - Node.js, Express.js, REST APIs
@@ -25,7 +25,7 @@ I'm a BSc (PCM) graduate passionate about building scalable web applications, ba
 - AWS, Docker, Docker Compose, Nginx, GitHub Actions, CI/CD
 
 **Programming Languages**
-- JavaScript, Python, C++
+- JavaScript, java, C++
 
 ### 🚀 Featured Projects
 
