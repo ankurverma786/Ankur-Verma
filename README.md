@@ -27,24 +27,42 @@ I'm a BCA graduate passionate about building scalable web applications, backend 
 **Programming Languages**
 - JavaScript, java, C++
 
-### 🚀 Featured Projects
 
-**1. Nexora AI — AI-Powered RAG Application**
-- PDF upload, document chunking, and vector embeddings
+## 🚀 Featured Projects
+
+### 🤖 Nexora AI — AI-Powered RAG Application
+An AI-powered application that lets users upload PDFs and ask questions based on their content.
+
+- PDF processing, chunking, and vector embeddings
 - Semantic search using MongoDB Vector Search
-- AI-powered question answering with Google Gemini
-  🔗 [Live Demo]([PASTE_NEXORA_LIVE_URL](https://nexora-rag.duckdns.org/))
+- Google Gemini API integration
+- Redis caching and background processing
 
-**2. Video Conferencing Application**
-- Real-time video communication using WebRTC
-- Socket.IO and mediasoup-based SFU architecture
+🔗 [Live Demo]([PASTE_NEXORA_LIVE_URL](https://nexora-rag.duckdns.org/))
+
+---
+
+### 🏡 Wanderlust — Travel Listing Application
+A full-stack application for browsing and managing property listings.
+
+- User authentication and property listings
+- Database integration and CRUD operations
+- Responsive user interface
+
+🔗 [Live Demo]([PASTE_WANDERLUST_LIVE_URL](https://wanderlust-npmy.onrender.com/listings))
+
+---
+
+### 🎥 Video Conferencing Application
+A real-time video conferencing application built with WebRTC and mediasoup.
+
+- Real-time communication using WebRTC
+- Socket.IO and SFU-based media architecture
 - Meeting management and real-time chat
 
-**3. Wanderlust — Travel Listing Application**
-- Full-stack property listing and booking features
-- Authentication and database integration
-- Responsive user interface
-  🔗 [Live Demo]([PASTE_WANDERLUST_LIVE_URL](https://wanderlust-npmy.onrender.com/listings))
+🚧 **Status:** In Development
+
+
   
 
 
