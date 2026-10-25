@@ -44,12 +44,16 @@ I'm a BCA graduate passionate about building scalable web applications, backend 
 - Authentication and database integration
 - Responsive user interface
 
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankurverma786&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurverma786&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ### 🤝 Connect With Me
 
 - GitHub: https://github.com/ankurverma786
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ankur0003/)
-- Portfolio: [YOUR_PORTFOLIO_URL](https://portfolio-frontend-neon-six.vercel.app/)
+- LinkedIn: [LINKEDIN](https://www.linkedin.com/in/ankur0003/)
+- Portfolio: [PORTFOLIO](https://portfolio-frontend-neon-six.vercel.app/)
